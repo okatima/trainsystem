@@ -1,0 +1,6 @@
+E:\development\src\C#\trainsystem\Trainsystem\Trainsystem\bin\Debug\Trainsystem.exe.config
+E:\development\src\C#\trainsystem\Trainsystem\Trainsystem\obj\Debug\Trainsystem.csprojResolveAssemblyReference.cache
+E:\development\src\C#\trainsystem\Trainsystem\Trainsystem\bin\Debug\Trainsystem.exe
+E:\development\src\C#\trainsystem\Trainsystem\Trainsystem\bin\Debug\Trainsystem.pdb
+E:\development\src\C#\trainsystem\Trainsystem\Trainsystem\obj\Debug\Trainsystem.exe
+E:\development\src\C#\trainsystem\Trainsystem\Trainsystem\obj\Debug\Trainsystem.pdb
